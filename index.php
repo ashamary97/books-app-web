@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>BOOKS APP</h1>
-    <table class="table">
+    <table class="table table-borderless">
 <tr>
     <td>Book Name</td>
     <td><input type="" class="form-control"></td>
